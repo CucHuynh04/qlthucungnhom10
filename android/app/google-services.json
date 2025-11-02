@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "905772912335",
+    "firebase_url": "https://flutter-firebase-5592b-default-rtdb.firebaseio.com",
+    "project_id": "flutter-firebase-5592b",
+    "storage_bucket": "flutter-firebase-5592b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905772912335:android:ce3a32a8f20b2be84d31ba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905772912335-gnko3lcuv62b08obbuu7rcpnd7n76tbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_auth_demo",
+            "certificate_hash": "73132e6187616c557095dceb9c014a0423ef981b"
+          }
+        },
+        {
+          "client_id": "905772912335-slflqvo23plqorc6qti04fgg2ifct2le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzaSLaJqFCtKT9L4I-uAquEvYkI7RFJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905772912335-slflqvo23plqorc6qti04fgg2ifct2le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905772912335-8277v5si52klsu3t9l9k38rks318pbqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vandung5Dinhngocnang"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905772912335:android:56a1f11b978500c04d31ba",
+        "android_client_info": {
+          "package_name": "com.example.vandung5_dinhngocnang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905772912335-mhlgcpq1tcdoh4jlqaa1f15t4kks7f6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vandung5_dinhngocnang",
+            "certificate_hash": "73132e6187616c557095dceb9c014a0423ef981b"
+          }
+        },
+        {
+          "client_id": "905772912335-slflqvo23plqorc6qti04fgg2ifct2le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzaSLaJqFCtKT9L4I-uAquEvYkI7RFJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905772912335-slflqvo23plqorc6qti04fgg2ifct2le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905772912335-8277v5si52klsu3t9l9k38rks318pbqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vandung5Dinhngocnang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
